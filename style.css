@@ -1,0 +1,16 @@
+#boardContainer {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    width: 128px;
+}
+
+
+.box {
+    border: 1px solid black;
+    height: 6px;
+    width: 6px;
+    margin: 1px;
+    padding: 0;
+    
+}
